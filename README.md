@@ -1,5 +1,4 @@
 
-````markdown
 # Ejercicios de Data Engineering y Web Scraping
 
 Este repositorio agrupa cuatro ejercicios prácticos en Python, Pandas, PySpark y Web Scraping:
