@@ -42,29 +42,3 @@ Este repositorio agrupa cuatro ejercicios prácticos en Python, Pandas, PySpark 
    pip install -r requirements.txt
 ````
 
-### Windows (PowerShell)
-
-```powershell
-# Crear el virtualenv
-python -m venv venv
-
-# Activar
-.\venv\Scripts\Activate.ps1
-
-# Instalar dependencias
-pip install -r requirements.txt
-```
-
-### Windows (CMD)
-
-```cmd
-REM Crear el virtualenv
-python -m venv venv
-
-REM Activar
-venv\Scripts\activate.bat
-
-REM Instalar dependencias
-pip install -r requirements.txt
-```
-
